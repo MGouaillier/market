@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "imageUrl": "/images/tomate.jpg",
+        "name": "Tomate",
+        "price": "1.99",
+        "stock": 150,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": "2",
+        "imageUrl": "/images/salade.jpg",
+        "name": "Salade",
+        "price": "2.99",
+        "stock": 200,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": "3",
+        "imageUrl": "/images/aubergine.jpg",
+        "name": "Aubergine",
+        "price": "3.99",
+        "stock": 20,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": "4",
+        "imageUrl": "/images/carotte.jpg",
+        "name": "Carotte",
+        "price": "4.99",
+        "stock": 80,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": "5",
+        "imageUrl": "/images/poivron.jpg",
+        "name": "Poivron",
+        "price": "5.99",
+        "stock": 280,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    {
+        "id": "6",
+        "imageUrl": "/images/concombre.jpg",
+        "name": "Concombre",
+        "price": "999999999",
+        "stock": 1,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+]
